@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "notes": "Home page restored",
+  "pub_date": "2026-11-17T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbTVPYzQ5dm9BMllvWmcvOVB5bVN1cWxOZ2NWNkhaNzNSS0srcWp3TjZBenRoell3NG5NTFBGd0xlakhzdGJmSDhzSTlxc0VGSS9wNEh4ZnhMWVA5OGx2WjZQS21FY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY2OTc5CWZpbGU6U3dpcGUgTGF1bmNoZXJfMS4wLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yClRHSGlFZDdyRXR6NkN4S0lpTlA2TUd0YndtaStRSHBmUkszMW05VXlqdEN0RVdVcGMvei85Z1p0U0tiNmo1aUhUK0VSZEk1RkZ6ekFEY1VmWlJpUkNBPT0K",
+      "url": "https://github.com/ZYTROZ/swipe-launcher/releases/download/v1.0.2/Swipe.Launcher_1.0.2_x64-setup.exe"
+    }
+  }
+}
